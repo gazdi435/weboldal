@@ -1,9 +1,4 @@
-p {
-margin-left: 30%;
-margin-right: 70%;
-}
-
-#main {
+body {
   background-image: url("yes.jpg");
   width: fit-content;
   height: fit-content;
